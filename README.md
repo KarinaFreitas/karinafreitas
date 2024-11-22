@@ -1,4 +1,4 @@
-## Oii! Eu sou Karina Freitas e estou sempre em busca de conhecimento
+## Oii! Eu sou Karina Freitas, desenvolvedora fullstack e apaixonada por qualidade de software.
 
 - 🔭 Hoje trabalho com Qualidade de Software
 - 🌱 Estudando Machine Learning
